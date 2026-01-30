@@ -56,9 +56,9 @@
 <details>
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 Puzzle</summary>
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>ColorNode.cs</li>
-    <li>Node.cs</li>
-    <li>MultiColorNodeManager.cs</li>
-    <li>SingleColorNodeManager.cs</li>
+    <li><a href="./Assets/02.Scripts/Kim/Puzzle/ColorNode.cs">ColorNode.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Puzzle/Node.cs">Node.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Puzzle/MultiColorNodeManager.cs">MultiColorNodeManager.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Puzzle/SingleColorNodeManager.cs">SingleColorNodeManager.cs</a></li>
   </ul>
 </details>
