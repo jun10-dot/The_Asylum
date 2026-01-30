@@ -6,7 +6,7 @@
 - 3D 공포 멀티 방탈출
 - 몬스터AI 추적을 피하며 방마다 퍼즐 요소를 풀고 10개의 토큰을 얻어 폐쇄 병동을 탈출하는 게임입니다.
 
-## 담당 스크립트
+## 📚 담당 스크립트
 
 <details>
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 DB & UI</summary>
