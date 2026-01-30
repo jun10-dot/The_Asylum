@@ -47,9 +47,9 @@
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 Player</summary>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li><a href="./Assets/02.Scripts/Kim/Player/FollowCamera.cs">FollowCamera.cs</a></li>
-    <li>PhotonPlayerCtrl.cs</li>
-    <li>PlayerInteraction.cs</li>
-    <li>PlayerDeath.cs</li>
+    <li><a href="./Assets/02.Scripts/Kim/Player/PhotonPlayerCtrl.cs">PhotonPlayerCtrl.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Player/PlayerInteraction.cs">PlayerInteraction.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Player/PlayerDeath.cs">PlayerDeath.cs</a></li>
   </ul>
 </details>
 
