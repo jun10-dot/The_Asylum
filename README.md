@@ -2,11 +2,11 @@
 ⚠️ 주의 사항: 본 게임은 공포 장르 특성상 갑작스러운 시각적 연출을 포함하고 있습니다.
 - [게임 실행] (https://github.com/jun10-dot/The_Asylum/releases/latest)
 
-## 🎈 프로젝트 소개
+## 프로젝트 소개
 - 3D 공포 멀티 방탈출
 - 몬스터AI 추적을 피하며 방마다 퍼즐 요소를 풀고 10개의 토큰을 얻어 폐쇄 병동을 탈출하는 게임입니다.
 
-## 📚 담당 스크립트
+## 담당 스크립트
 
 <details>
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 DB & UI</summary>
