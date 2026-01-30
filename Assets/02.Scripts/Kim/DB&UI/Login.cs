@@ -35,17 +35,17 @@ public class Login : MonoBehaviour
     public void NextRoomLobby() 
     {
         ////데이터베이스 로직
-        string inputName = loginInputField.text.Trim(); // 양쪽 끝 공백 제거된 텍스트
-        LoginManager.Instance.UserName = inputName;
+        //string inputName = loginInputField.text.Trim(); // 양쪽 끝 공백 제거된 텍스트
+        //LoginManager.Instance.UserName = inputName;
         // PHP 서버에 회원가입으로 생성된 이름이 존재하는지 확인, 결과는 콜백함수로 전달
-        StartCoroutine(LoginManager.Instance.CheckUserExist(inputName, OnLoginResponse));
+        //StartCoroutine(LoginManager.Instance.CheckUserExist(inputName, OnLoginResponse));
 
         /// 데이터 베이스 적용 안한 버전 ///
-        //if (loginInputField.text.Trim() == "") // 입력값이 비어있으면 진행X
-        //    return;
+        if (loginInputField.text.Trim() == "") // 입력값이 비어있으면 진행X
+            return;
 
-        //loginName = loginInputField.text; // 입력한 이름을 저장
-        //LobbyManager.Instance.EnterRoomLobby();
+        loginName = loginInputField.text; // 입력한 이름을 저장
+        LobbyManager.Instance.EnterRoomLobby();
         ////////////////////////////////////
     }
 
