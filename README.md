@@ -37,9 +37,9 @@
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 Interactions</summary>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li><a href="./Assets/02.Scripts/Kim/Interactions/Door.cs">Door.cs</a></li>
-    <li>Interfaces.cs</li>
-    <li>OutlineEffect.cs</li>
-    <li>OutlineItem.cs</li>
+    <li><a href="./Assets/02.Scripts/Kim/Interactions/Interfaces.cs">Interfaces.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Interactions/OutlineEffect.cs">OutlineEffect.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/Interactions/OutlineItem.cs">OutlineItem.cs</a></li>
   </ul>
 </details>
 
