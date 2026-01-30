@@ -2,22 +2,6 @@
 ⚠️ 주의 사항: 본 게임은 공포 장르 특성상 갑작스러운 시각적 연출을 포함하고 있습니다.
 - [게임 실행] (https://github.com/jun10-dot/The_Asylum/releases/latest)
 
-## 🎈 프로젝트 소개
-- 3D 공포 협동 방탈출
-- 몬스터AI 추적을 피하며 방마다 퍼즐 요소를 풀고 10개의 토큰을 얻어 폐쇄 병동을 탈출하는 게임입니다. 
-   
-## 📝프로젝트 정보
-- 개발 인원: 4명
-- 프로젝트 기간: 2025.10.20~2025.11.21 (5주)
-- 담당 역할: 플레이어 시스템, DB 연동, 컬러 퍼즐 시스템
-
-## 🔧 기술 스택
-- 엔진 : Unity/C#
-- 개발 환경 : Visual Studio 2022
-- 네트워크 : Photon PUN
-- 백엔드 : MySQL, PHP
-- 버전 관리 : GitHub, SourceTree
-
 ## 담당 스크립트
 
 <details>
@@ -62,3 +46,19 @@
     <li><a href="./Assets/02.Scripts/Kim/Puzzle/SingleColorNodeManager.cs">SingleColorNodeManager.cs</a></li>
   </ul>
 </details>
+
+## 🎈 프로젝트 소개
+- 3D 공포 협동 방탈출
+- 몬스터AI 추적을 피하며 방마다 퍼즐 요소를 풀고 10개의 토큰을 얻어 폐쇄 병동을 탈출하는 게임입니다. 
+   
+## 📝프로젝트 정보
+- 개발 인원: 4명
+- 프로젝트 기간: 2025.10.20~2025.11.21 (5주)
+- 담당 역할: 플레이어 시스템, DB 연동, 컬러 퍼즐 시스템
+
+## 🔧 기술 스택
+- 엔진 : Unity/C#
+- 개발 환경 : Visual Studio 2022
+- 네트워크 : Photon PUN
+- 백엔드 : MySQL, PHP
+- 버전 관리 : GitHub, SourceTree
