@@ -46,7 +46,7 @@
 <details>
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 Player</summary>
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>FollowCamera.cs</li>
+    <li><a href="./Assets/02.Scripts/Kim/Player/FollowCamera.cs">FollowCamera.cs</a></li>
     <li>PhotonPlayerCtrl.cs</li>
     <li>PlayerInteraction.cs</li>
     <li>PlayerDeath.cs</li>
