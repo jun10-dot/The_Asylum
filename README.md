@@ -23,7 +23,7 @@
 <details>
   <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold; margin-bottom: 5px;">📂 DB & UI</summary>
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li><a href="./Assets/02.Scripts/Kim/LanguageButton.cs">LanguageButton.cs</a></li>
+    <li><a href="./Assets/02.Scripts/Kim/DB&UI/LanguageButton.cs">LanguageButton.cs</a></li>
     <li>LanguageManager.cs</li>
     <li>LobbyManager.cs</li>
     <li>LocalizationText.cs</li>
