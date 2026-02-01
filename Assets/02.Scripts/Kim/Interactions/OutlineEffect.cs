@@ -11,7 +11,7 @@ namespace Outline
     public class OutlineEffect
     {
         public Material outline; // 외곽선 효과용 머티리얼
-        public Material saveOutline; // 이전 상태 저장
+        public Material saveOutline; // 인스턴스화된 객체 저장
         public List<Material> materialList = new List<Material>(); // 머티리얼 변경을 위한 리스트
 
         // Project창 리소스 폴더에 외곽선 쉐이더를 로드하고 머티리얼 초기화
