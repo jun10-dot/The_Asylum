@@ -5,6 +5,8 @@
 
 [게임 실행](https://github.com/jun10-dot/The_Asylum/releases/latest)
 
+[프로젝트 상세 설명 (Notion)](https://www.notion.so/The_Asylum-2edbe5889bd7803e9196c4ae5c686ef0)
+
 ## 프로젝트 소개
 - 3D 공포 멀티 방탈출
 - 몬스터AI 추적을 피하며 방마다 퍼즐 요소를 풀고 10개의 토큰을 얻어 폐쇄 병동을 탈출하는 게임입니다.
