@@ -1,6 +1,7 @@
 # The_Asylum
 ⚠️ 주의 사항- 본 게임은 공포 장르 특성상 갑작스러운 시각적 연출을 포함하고 있습니다.
-- [게임 실행] (https://github.com/jun10-dot/The_Asylum/releases/latest)
+
+[게임 실행](https://github.com/jun10-dot/The_Asylum/releases/latest)
 
 ## 프로젝트 소개
 - 3D 공포 멀티 방탈출
