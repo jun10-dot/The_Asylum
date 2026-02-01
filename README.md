@@ -1,5 +1,7 @@
 # The_Asylum
-⚠️ 주의 사항- 본 게임은 공포 장르 특성상 갑작스러운 시각적 연출을 포함하고 있습니다.
+<img width="1237" height="673" alt="스크린샷 2026-01-26 004037" src="https://github.com/user-attachments/assets/c15b8ba4-e9d2-4974-a0cb-38f4c6c903d3" />
+
+⚠️ 주의 사항- 본 게임은 갑작스러운 시각적 연출을 포함하고 있습니다.
 
 [게임 실행](https://github.com/jun10-dot/The_Asylum/releases/latest)
 
