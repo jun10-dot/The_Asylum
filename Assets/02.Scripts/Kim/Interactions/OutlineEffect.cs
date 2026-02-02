@@ -30,6 +30,7 @@ namespace Outline
             materialList.Add(outline); // 외곽선 머티리얼을 목록 맨 뒤에 추가
 
             render.materials = materialList.ToArray(); // 변경된 목록을 적용
+            saveOutline = render.materials[render.materials.Length - 1]; // 인스턴스화된 객체 캐싱 
         }
 
         // 아이템 머티리얼 목록에 추가되었던 외곽선머티리얼 제거
@@ -38,9 +39,10 @@ namespace Outline
             materialList.Clear(); // 기존 머티리얼 리스트 정리
             materialList.AddRange(render.sharedMaterials); // 현재 적용된 머티리얼 목록 가져옴(원본 참조)
             // 쉐이더 이름을 비교하여 외곽선 머티리얼만 제거
-            materialList.RemoveAll(mat => mat.shader.name == outline.shader.name);
-           
+            if(saveOutline == null) return;
+            materialList.Remove(saveOutline); 
             render.materials = materialList.ToArray(); // 변경된 목록을 다시 적용
+            saveOutline = null;
         }
     }
 }
