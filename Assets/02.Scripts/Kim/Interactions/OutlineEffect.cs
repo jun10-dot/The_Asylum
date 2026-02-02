@@ -38,7 +38,6 @@ namespace Outline
         {
             materialList.Clear(); // 기존 머티리얼 리스트 정리
             materialList.AddRange(render.sharedMaterials); // 현재 적용된 머티리얼 목록 가져옴(원본 참조)
-<<<<<<< HEAD
             // 쉐이더 이름을 비교하여 외곽선 머티리얼만 제거
 
             if(saveOutline == null) return;
