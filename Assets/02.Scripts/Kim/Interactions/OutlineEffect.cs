@@ -11,7 +11,7 @@ namespace Outline
     public class OutlineEffect
     {
         public Material outline; // 외곽선 효과용 머티리얼
-        public Material saveOutline; // 이전 상태 저장
+        public Material saveOutline; // 인스턴스화된 객체 저장
         public List<Material> materialList = new List<Material>(); // 머티리얼 변경을 위한 리스트
 
         // Project창 리소스 폴더에 외곽선 쉐이더를 로드하고 머티리얼 초기화
@@ -38,7 +38,9 @@ namespace Outline
         {
             materialList.Clear(); // 기존 머티리얼 리스트 정리
             materialList.AddRange(render.sharedMaterials); // 현재 적용된 머티리얼 목록 가져옴(원본 참조)
+<<<<<<< HEAD
             // 쉐이더 이름을 비교하여 외곽선 머티리얼만 제거
+
             if(saveOutline == null) return;
             materialList.Remove(saveOutline); 
             render.materials = materialList.ToArray(); // 변경된 목록을 다시 적용
