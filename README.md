@@ -5,6 +5,8 @@
 
 [게임 실행](https://github.com/jun10-dot/The_Asylum/releases/latest)
 
+[전체 플레이 영상 (YouTube)](https://youtu.be/b0AHU12t8cc)
+
 [프로젝트 상세 설명 (Notion)](https://www.notion.so/The_Asylum-2edbe5889bd7803e9196c4ae5c686ef0)
 
 ## 프로젝트 소개
